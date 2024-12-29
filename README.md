@@ -26,7 +26,4 @@ The E-KYC web application automates the Know Your Customer (KYC) process by leve
 
 - **Haarcascade**: For detecting faces in images.
 
-
-![image](https://github.com/user-attachments/assets/5c1367f1-2267-4561-9087-d15a69f3826b)
-
 ![image](https://github.com/user-attachments/assets/cb77b0ed-3112-454b-a38b-eef403883170)
